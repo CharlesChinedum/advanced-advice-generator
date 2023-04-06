@@ -22,6 +22,10 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## About
+
+This is the more advanced version of an advice generator I built earlier. This app uses the adviceslip-api, instead of the tradiitonal local array I used for the previous version.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
@@ -30,7 +34,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## About
-
-This is the more advanced version of an advice generator I built earlier. This app uses the adviceslip-api, instead of the tradiitonal local array I used for the previous version.
